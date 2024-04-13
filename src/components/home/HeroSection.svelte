@@ -14,7 +14,7 @@
     <div class="relative flex flex-col items-center gap-[56px]">
         <div class="text-center">
             <h1
-                class="text-2xl md:text-3xl font-bold text-white font-montserrat"
+                class="text-2xl md:text-4xl font-bold text-white font-montserrat"
             >
                 Integrated Patient Data for Improved <span
                     class="text-secondary">Healthcare</span
